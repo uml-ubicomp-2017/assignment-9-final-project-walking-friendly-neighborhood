@@ -1,1 +1,3 @@
-# assignment-9-final-project-walking-friendly-neighborhood
+# Team
+* Jan Zaloudek
+* Ondrej Borovec
